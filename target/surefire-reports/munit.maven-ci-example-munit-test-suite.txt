@@ -1,0 +1,5 @@
+SUCCESS - Test maven-ci-example-munit-test-suite-maven-ci-exampleFlowTest finished Successfully.
+
+=============================================================================
+Tests run: 1 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.785 sec
+=============================================================================
